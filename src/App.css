@@ -1,17 +1,40 @@
 .App {
   text-align: center;
+  display: flex;
+  display: column;
 }
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 20px;
 }
+.Title {
 
-.App-header {
+}
+.Menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  height: 100%;
+  vertical-align: middle;
+  width: 30%;
+}
+.Header {
+  display: flex;
+  justify-content: space-between;
   background-color: #222;
   height: 60px;
-  padding: 20px;
+  padding: 0px;
   color: white;
+  width: 100%;
+}
+.Leftside {
+  background-color: blue;
+  flex: 1 1 1;
+}
+.Content{
+  background-color: red;
+  flex: 1;
 }
 
 .App-intro {
