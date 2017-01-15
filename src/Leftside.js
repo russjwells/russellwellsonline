@@ -6,8 +6,14 @@ class Leftside extends Component {
     return (
       <div className="Leftside">
         <img src={headshot} alt="headshot" width="394" height="526"/>
-        <p>russ@russdigital.com</p>
-        <p>github.com/russjwells</p>
+        <div className="QuickContacts">
+          <p>russ@russdigital.com</p>
+          <p>github.com/russjwells</p>
+          <p>(513) 332 5252</p>
+        </div>
+        <div className="Message">
+          message
+        </div>
       </div>
     );
   }

@@ -46,6 +46,10 @@ img {
   width: 100%;
   vertical-align: middle;
 }
+.resume {
+  width: 600px;
+  background-color: white;
+}
 .Leftside {
   background-color: #4A5048;
   width: 394px;
@@ -56,6 +60,9 @@ img {
 .Rightside {
   background-color: #FEFFF8;
   flex: 1;
+}
+.resume{
+  margin: auto;
 }
 .Content{
   flex: 1;
