@@ -7,9 +7,9 @@ class Header extends Component {
       <div className="Header">
         <div className="Title">Russell Wells</div>
         <div className="Menu">
-          <Link to='/'><div>resume</div></Link>
-          <Link to='/showcase'><div>showcase</div></Link>
-          <Link to='/about'><div>about</div></Link>
+          <Link to='/' activeClassName='ActiveMenuItem'><div>resume</div></Link>
+          <Link to='/showcase' activeClassName='ActiveMenuItem'><div>showcase</div></Link>
+          <Link to='/about' activeClassName='ActiveMenuItem'><div>about</div></Link>
         </div>
       </div>
     );

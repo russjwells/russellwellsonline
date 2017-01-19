@@ -15,7 +15,6 @@
   display: flex;
   flex-direction: column;
 }
-
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 20px;
@@ -24,10 +23,14 @@
   width: 394px;
   height: 60px;
   line-height: 60px;
+  text-align: center;
 }
 img {
   border: 0;
   border-style: none;
+}
+.ActiveMenuItem{
+  font-weight: bold;
 }
 .Menu {
   display: flex;
@@ -60,6 +63,8 @@ img {
   height: 100%;
   flex: 1 1 1;
   color: #DBE4D7;
+  text-align: center;
+  flex-direction: column;
 }
 .Rightside {
   background-color: #FEFFF8;
@@ -73,7 +78,16 @@ img {
   display: flex;
 
 }
-
+.Message{
+  align-self: flex-end;
+  height: 40px;
+  line-height: 40px;
+}
+.Message:hover{
+  background-color: #FFF;
+  color: #4A5048;
+  cursor: pointer;
+}
 .App-intro {
   font-size: large;
 }

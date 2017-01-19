@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import Header from './Header.js'
-import Sidebar from './Sidebar.js'
 import Content from './Content.js'
 
 class Site extends Component {
@@ -9,7 +8,6 @@ class Site extends Component {
       <div className="Site">
         <Header />
         <Content display={this.props.children}/>
-
       </div>
     )
   }
