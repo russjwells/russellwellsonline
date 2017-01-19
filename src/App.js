@@ -1,16 +1,22 @@
 import React, { Component } from 'react';
 import './App.css';
-import Header from './Header.js';
-import Leftside from './Leftside.js';
-import Content from './Content.js';
+
+import { Router, Route, hashHistory, IndexRoute } from 'react-router';
+import Site from './Site.js';
+import Resume from './Resume.js';
+import Showcase from './Showcase.js'
+import About from './About.js'
 
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        <Header />
-        <Content />
-      </div>
+      <Router history={ hashHistory }>
+        <Route path="/" component={Site}>
+          <IndexRoute component={Resume}></IndexRoute>
+          <Route path="showcase" component={Showcase}></Route>
+          <Route path="about" component={About}></Route>
+        </Route>
+      </Router>
     );
   }
 }
