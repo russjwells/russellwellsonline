@@ -4,6 +4,7 @@ class Resume extends Component {
   render(){
     return(
       <div className="resume">
+      <div className="resumeSpacer">
         <h1>Experience</h1>
         <h2>Digital Hyperspace</h2>
         <p>Founder, software engineer</p>
@@ -19,9 +20,10 @@ class Resume extends Component {
         <hr />
         <h1>Skills</h1>
         <h2>Software Engineering</h2>
-        <p>javascript, react, react native, angular, node, mongodb, express</p>
+        <p>Javascript, react, react native, angular, node, mongodb, express</p>
         <h2>Digital Design</h2>
-        <p>ux/ui, motion graphics, branding, iconography, typography, graphic design</p>
+        <p>UX/UI, motion graphics, branding, iconography, typography, graphic design</p>
+      </div>
       </div>
     );
   }
