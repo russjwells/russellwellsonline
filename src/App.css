@@ -29,8 +29,14 @@ img {
   border: 0;
   border-style: none;
 }
-.ActiveMenuItem{
+.ActiveMenuItem, .ActiveMenuItem a:link{
   font-weight: bold;
+  color: #181B17;
+  text-decoration: none;
+}
+.MenuItem a:link, a:visited, a:active{
+  color: #9C9C9C;
+  text-decoration: none;
 }
 .Menu {
   display: flex;
@@ -52,10 +58,14 @@ img {
   color: #181B17;
   width: 100%;
   vertical-align: middle;
+  z-index: 2;
 }
 .resume {
   width: 600px;
+  height: 100%;
   background-color: white;
+  color: #414540;
+  overflow: scroll;
 }
 .Sidebar {
   background-color: #4A5048;
@@ -65,6 +75,7 @@ img {
   color: #DBE4D7;
   text-align: center;
   flex-direction: column;
+  z-index: 1;
 }
 .Rightside {
   background-color: #FEFFF8;
@@ -88,10 +99,38 @@ img {
   color: #4A5048;
   cursor: pointer;
 }
-.App-intro {
-  font-size: large;
+.ProjectList{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  overflow: scroll;
 }
-
+.ProjectListItem{
+  display: flex;
+  flex-direction: column;;
+  width: 100%;
+  min-height: 600px;
+}
+.ProjectListItem:hover{
+  background-color: #FFF;
+}
+.ProjectImage{
+  width: 400px;
+  height: 400px;
+  margin: auto;
+}
+.ProjectImage img {
+  border-style:double;
+  margin: auto;
+}
+.ProjectInfo{
+  max-width: 600px;
+  min-width: 400px;
+  margin: auto;
+}
+.About{
+  margin: auto;
+}
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
