@@ -1,13 +1,12 @@
 import React, { Component } from 'react';
-import Leftside from './Leftside.js';
-import Rightside from './Rightside.js';
+import Sidebar from './Sidebar.js';
 
 class Content extends Component {
   render() {
     return (
       <div className="Content">
-        <Leftside />
-        <Rightside />
+        <Sidebar />
+        {this.props.display}
       </div>
     );
   }

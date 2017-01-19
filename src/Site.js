@@ -1,14 +1,15 @@
 import React, { Component } from 'react';
 import Header from './Header.js'
 import Sidebar from './Sidebar.js'
+import Content from './Content.js'
 
 class Site extends Component {
   render(){
     return(
-      <div>
+      <div className="Site">
         <Header />
-        <Sidebar />
-        {this.props.children}
+        <Content display={this.props.children}/>
+
       </div>
     )
   }
