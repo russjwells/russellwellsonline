@@ -1,8 +1,25 @@
 #root, .App, .Site, html, body {
   height: 100%;
   margin: 0;
-}
 
+}
+h3 {
+  font-family: abel, sans-serif;
+}
+h2 {
+  font-family: abel, sans-serif;
+}
+h1 {
+  font-family: advent-pro, sans-serif;
+}
+p {
+  font-family: abel, sans-serif;
+}
+.Menu {
+  font-family: abel, sans-serif;
+  font-size: 1.1em;
+  text-decoration: none;
+}
 .App {
   text-align: center;
   display: flex;
@@ -24,6 +41,9 @@
   height: 60px;
   line-height: 60px;
   text-align: center;
+  font-family: abel, sans-serif;
+  font-size: 2em;
+  font-weight: bold;
 }
 img {
   border: 0;
@@ -80,7 +100,7 @@ img {
   text-align: center;
   flex-direction: column;
   z-index: 1;
-  
+
 }
 .Rightside {
   background-color: #FEFFF8;
@@ -98,6 +118,8 @@ img {
   align-self: flex-end;
   height: 40px;
   line-height: 40px;
+  font-family: abel, sans-serif;
+  font-weight: bold
 }
 .Message:hover{
   background-color: #FFF;

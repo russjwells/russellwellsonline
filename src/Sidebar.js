@@ -12,7 +12,7 @@ class Sidebar extends Component {
           <p>(513) 332-5252</p>
         </div>
         <div className="Message">
-          message
+          MESSAGE ME NOW
         </div>
       </div>
     );
