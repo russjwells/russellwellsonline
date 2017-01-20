@@ -17,7 +17,7 @@ class Resume extends Component {
         <h2>University of Cincinnati</h2>
         <p>Bachelor’s of Science in Design – Digital Design</p>
         <h2>Betaspring</h2>
-        <p>Fall 2012 Cohort</p>
+        <p>Fall 2012 cohort</p>
         <hr />
         <h1>Skills</h1>
         <h2>Software Engineering</h2>

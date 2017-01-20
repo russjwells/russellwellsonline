@@ -7,13 +7,17 @@ class Sidebar extends Component {
       <div className="Sidebar">
         <img src={headshot} alt="headshot" width="394" height="526"/>
         <div className="Oneliner">Full Stack Javascript Engineer</div>
-        <p>github.com/russjwells</p>
-        <div className="QuickContacts">
-          <p>russ@russdigital.com</p>
-          <p>(513) 332-5252</p>
+        <div className="PublicRepos">
+          <p>Public repositories:</p>
+          <p>github.com/russjwells</p>
         </div>
         <div className="Message">
           MESSAGE ME NOW
+        </div>
+        <div className="QuickContacts">
+          <p>or Contact:</p>
+          <p>russ@russdigital.com</p>
+          <p>(513) 332-5252</p>
         </div>
       </div>
     );
