@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import {Link} from 'react-router';
+import {Link, IndexLink} from 'react-router';
 
 class Header extends Component {
   render() {
@@ -7,7 +7,7 @@ class Header extends Component {
       <div className="Header">
         <div className="Title">Russell Wells</div>
         <div className="Menu">
-          <Link to='/' activeClassName='ActiveMenuItem'><div className='MenuItem'>resume</div></Link>
+          <IndexLink to='/' activeClassName='ActiveMenuItem'><div className='MenuItem'>resume</div></IndexLink>
           <Link to='/showcase' activeClassName='ActiveMenuItem'><div className='MenuItem'>showcase</div></Link>
           <Link to='/about' activeClassName='ActiveMenuItem'><div className='MenuItem'>about</div></Link>
         </div>
