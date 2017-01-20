@@ -5,15 +5,23 @@
 }
 h3 {
   font-family: abel, sans-serif;
+  margin: 3px 0px;
 }
 h2 {
   font-family: abel, sans-serif;
+  margin: 7px 20px;
 }
 h1 {
-  font-family: advent-pro, sans-serif;
+  font-family: abel, sans-serif;
+  font-weight: 800;
+  margin: 20px 0px;
 }
 p {
   font-family: abel, sans-serif;
+  margin: 5px 20px;
+}
+hr{
+  margin: 30px 0px;
 }
 .Menu {
   font-family: abel, sans-serif;
@@ -44,19 +52,31 @@ p {
   font-family: abel, sans-serif;
   font-size: 2em;
   font-weight: bold;
+  color: white;
 }
 img {
   border: 0;
   border-style: none;
 }
+.MenuItem {
+  padding: 0px 30px;
+}
 .ActiveMenuItem, .ActiveMenuItem a:link{
-  font-weight: bold;
-  color: #181B17;
+  font-weight: bolder;
+  color: #414540;
   text-decoration: none;
+  background-color: white;
 }
 .MenuItem a:link, a:visited, a:active{
-  color: #9C9C9C;
+  color: #DBE4D7;
   text-decoration: none;
+}
+.MenuItem:hover{
+  background-color: white;
+  color: #414540;
+}
+.ActiveMenuItem:hover {
+
 }
 .Menu {
   display: flex;
@@ -75,10 +95,11 @@ img {
   background-color: #FFF;
   height: 60px;
   padding: 0px;
-  color: #181B17;
+  
   width: 100%;
   vertical-align: middle;
   z-index: 2;
+  background-color: #4A5048;
 }
 .resume {
   width: 100%;
