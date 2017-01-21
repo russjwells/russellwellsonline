@@ -5,11 +5,13 @@ class ProjectListItem extends Component{
     return(
       <div className="ProjectListItem">
         <div className="ProjectImage">
-          <img src="http://www.placekitten.com/100/100" alt="img" width="400" height="400" />
+          <img src={this.props.pic} alt="img" width="400" height="400" />
         </div>
         <div className="ProjectInfo">
           <h2>{this.props.title}</h2>
           <p>{this.props.description}</p>
+          <p><i>{this.props.tech}</i></p>
+
         </div>
       </div>
     )

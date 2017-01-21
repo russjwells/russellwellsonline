@@ -1,7 +1,9 @@
 #root, .App, .Site, html, body {
   height: 100%;
   margin: 0;
-
+}
+html {
+  background-color: #4A5048;
 }
 h3 {
   font-family: abel, sans-serif;
@@ -182,6 +184,7 @@ img {
   flex-direction: column;
   width: 100%;
   overflow: scroll;
+  background-color: white;
 }
 .ProjectListItem{
   display: flex;
@@ -208,6 +211,15 @@ img {
 }
 .About{
   margin: auto;
+  background-color: white;
+  height: 100%;
+  width: 100%;
+  line-height: 1.5em
+}
+.AboutSpacer{
+
+  margin: 60px auto;
+  width: 400px;
 }
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
