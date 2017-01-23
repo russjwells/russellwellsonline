@@ -14,7 +14,7 @@ class ProjectList extends Component{
             <p><a href="https://itunes.apple.com/us/app/sitting-timer/id1139439714">iOS App</a> | <a href="https://github.com/russjwells/SittingApp">Repository</a></p>
           </div>
         </div>
-        
+
         <div className="ProjectListItem">
           <div className="ProjectInfo">
             <h2>Reddit Clone</h2>

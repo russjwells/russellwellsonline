@@ -1,3 +1,12 @@
+@media only screen and (min-width:1000px;){
+
+}
+@media only screen and (max-width:1000px;){
+  .Content{
+    flex-direction: column;
+  }
+}
+
 #root, .App, .Site, html, body {
   height: 100%;
   margin: 0;
@@ -21,6 +30,7 @@ h1 {
 p {
   font-family: abel, sans-serif;
   margin: 5px 20px;
+  font-size: 1.1em;
 }
 hr{
   margin: 30px 0px;
@@ -139,7 +149,16 @@ img {
   text-align: center;
   flex-direction: column;
   z-index: 1;
+  display: flex;
+  justify-content: flex-start;
 
+}
+.Headshot{
+  width: 100%;
+  background-position: center top;
+  background-size: cover;
+  background-repeat: no-repeat;
+  flex-grow: 3;
 }
 .Rightside {
   background-color: #FEFFF8;
@@ -153,6 +172,12 @@ img {
   display: flex;
 
 }
+.Sidebardata{
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  flex-grow: 1;
+}
 .Oneliner{
   font-family: abel, sans-serif;
   margin: 20px 0px;
@@ -165,12 +190,14 @@ img {
   margin: 20px 0px;
 }
 .Message{
-  align-self: flex-end;
   height: 40px;
   line-height: 40px;
   font-family: abel, sans-serif;
   font-weight: bold;
   margin: 10px 0px;
+  width: 100%;
+  text-align: center;
+  vertical-align: middle;
 }
 
 .Message:hover{
