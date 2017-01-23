@@ -1,5 +1,6 @@
 import React, {Component} from 'react'
 import headshot from './rwo_headshot.png'
+import { Follow } from 'react-twitter-widgets'
 
 class Sidebar extends Component {
   render(){
@@ -19,6 +20,9 @@ class Sidebar extends Component {
           <p>russ@russdigital.com</p>
           <p>(513) 332-5252</p>
         </div>
+        <Follow
+          username={"russellwells"}
+        />
       </div>
     );
   }
