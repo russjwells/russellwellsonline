@@ -125,7 +125,6 @@ img {
   min-height: 100%;
   background-color: white;
   color: #414540;
-  overflow: scroll;
 }
 .resumeSpacer{
   width: 600px;
@@ -191,6 +190,18 @@ img {
   flex-direction: column;;
   width: 100%;
   min-height: 200px;
+}
+.ProjectListItem a:link{
+  color: green;
+  text-decoration: none;
+}
+.ProjectListItem a:visited{
+  color: green;
+  text-decoration: none;
+}
+.ProjectListItem a:hover{
+  color: green;
+  text-decoration: underline;
 }
 .ProjectListItem:hover{
   background-color: #FFF;
