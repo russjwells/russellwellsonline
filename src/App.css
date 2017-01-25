@@ -6,7 +6,6 @@
     flex-direction: column;
   }
 }
-
 #root, .App, .Site, html, body {
   height: 100%;
   margin: 0;
@@ -73,7 +72,6 @@ img {
 .MenuItem {
   padding: 0px 30px;
 }
-
 .MenuItem a:link, .MenuItem a:visited, .MenuItem a:active{
   color: white;
   text-decoration: none;
@@ -83,7 +81,6 @@ img {
   width: 200px;
   text-align: center;
 }
-
 .ActiveMenuItem, .ActiveMenuItem a:link{
   font-weight: bolder;
   color: #414540;
@@ -96,7 +93,6 @@ img {
 .MenuItem a:visited {
   color: white;
 }
-
 .MenuItem:hover{
   background-color: white;
   color: #414540;
@@ -116,7 +112,6 @@ img {
   vertical-align: middle;
   max-width: 40%;
   min-width: 35%;
-
 }
 .Header {
   display: flex;
@@ -124,21 +119,10 @@ img {
   background-color: #FFF;
   height: 80px;
   padding: 0px;
-
   width: 100%;
   vertical-align: middle;
   z-index: 2;
   background-color: #4A5048;
-}
-.resume {
-  width: 100%;
-  min-height: 100%;
-  background-color: white;
-  color: #414540;
-}
-.resumeSpacer{
-  width: 600px;
-  margin: 50px auto;
 }
 .Sidebar {
   background-color: #4A5048;
@@ -151,7 +135,6 @@ img {
   z-index: 1;
   display: flex;
   justify-content: flex-start;
-
 }
 .Headshot{
   width: 100%;
@@ -164,13 +147,9 @@ img {
   background-color: #FEFFF8;
   flex: 1;
 }
-.resume{
-  margin: auto;
-}
 .Content{
   flex: 1;
   display: flex;
-
 }
 .Sidebardata{
   display: flex;
@@ -199,11 +178,21 @@ img {
   text-align: center;
   vertical-align: middle;
 }
-
 .Message:hover{
   background-color: #FFF;
   color: #4A5048;
   cursor: pointer;
+}
+.resume {
+  width: 100%;
+  min-height: 100%;
+  background-color: white;
+  color: #414540;
+  overflow: scroll;
+}
+.resumeSpacer{
+  width: 600px;
+  margin: 50px auto;
 }
 .ProjectList{
   display: flex;
@@ -248,14 +237,13 @@ img {
   margin: auto;
 }
 .About{
-  margin: 0 auto;
   background-color: white;
   min-height: 100%;
   width: 100%;
-  line-height: 2em
+  line-height: 2em;
+  overflow: scroll;
 }
 .AboutSpacer{
-
   margin: 60px auto;
   width: 500px;
 }
