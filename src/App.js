@@ -12,9 +12,9 @@ class App extends Component {
     return (
       <Router history={ browserHistory }>
         <Route path="/" component={Site}>
-          <IndexRoute component={Resume}></IndexRoute>
+          <IndexRoute component={About}></IndexRoute>
           <Route path="showcase" component={Showcase}></Route>
-          <Route path="about" component={About}></Route>
+          <Route path="resume" component={Resume}></Route>
         </Route>
       </Router>
     );
