@@ -13,7 +13,7 @@ class Sidebar extends Component {
           <img src={headshot} alt="headshot" width="394" height="526"/>
           */}
         <div className="Sidebardata">
-          <div className="Oneliner">Full Stack Javascript Engineer</div>
+          <div className="Oneliner">Front End Javascript Engineer</div>
           <div className="PublicRepos">
             <p>Public repositories:</p>
             <p>github.com/russjwells</p>
