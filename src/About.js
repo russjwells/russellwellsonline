@@ -6,7 +6,7 @@ class About extends Component {
     return(
         <div className="About">
           <div className="AboutSpacer">
-            <h2>Making an Engineer</h2>
+            <h2>Creative Product Engineering</h2>
 
             {/*<p>
               I began programming when I was young. In middle school I learned Basic on the TI-83, then HTML from Neopets and began to create my own geocities sites. In high school I took all the programming courses available and created an independent study. Before graduation I had AP computer science credit and a working knowledge of Visual Basic, C, C#, and Java, as well as HTML, CSS, PHP and mySQL.

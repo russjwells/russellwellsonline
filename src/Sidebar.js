@@ -20,7 +20,7 @@ class Sidebar extends Component {
           </div>
 
           <div className="QuickContacts">
-            <p>or Contact:</p>
+            <p>Contact:</p>
             <p>russ@russdigital.com</p>
             <p>(513) 332-5252</p>
           </div>
