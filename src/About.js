@@ -20,10 +20,11 @@ class About extends Component {
              <p>
               After my first startup I left Rhode Island, went back to Cincinnati to finish my Bachelor's of Science in Design, and moved to San Diego to program Javascript for the web.
              </p>
+
+             <p>I have five years of professional design and engineering experience. I have worked on everything from motion graphics for major television networks to product websites for startups, digital storefronts for local businesses, native mobile applications, and 3D games. </p>
              <p>
-              I take digital products from inception to completion, and bring your dreams and ideas to life.
+              I take digital products from inception to completion, and bring your dreams and ideas to life. I'd love to work with you! Email me for my current rate.
              </p>
-             <p>I have five years of professional design and engineering experience. I have worked on everything from motion graphics for major television networks to product websites for startups, digital storefronts for local businesses, native mobile applications, and 3D games. I'd love to work with you! Email me for my current rate.</p>
              <p>&nbsp;</p>
              <p>Russell</p>
              {/*<p>
