@@ -70,7 +70,7 @@ hr{
   min-width: 35%;
 }
 .Title {
-  width: 319px;
+  width: 258px;
   height: 80px;
   line-height: 80px;
   text-align: center;
@@ -121,6 +121,7 @@ img {
 .Sidebar {
   background-color: #4A5048;
   width: 20%;
+  max-width: 258px;
   height: 100%;
   flex: 1 1 1;
   color: white;
@@ -282,6 +283,7 @@ img {
     width: 100%;
     height: 100px;
     order: 2;
+    max-width: 100%;
   }
   .Resume{
     overflow: auto;
