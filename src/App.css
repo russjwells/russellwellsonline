@@ -83,9 +83,6 @@ img {
   border: 0;
   border-style: none;
 }
-.MenuItem {
-
-}
 .MenuItem a:link, .MenuItem a:visited, .MenuItem a:active{
   color: white;
   text-decoration: none;
