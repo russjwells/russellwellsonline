@@ -10,7 +10,7 @@ class About extends Component {
 
             <p>I attended high school in Mason, Ohio where I developed an interest in design and technology. I studied several programming languages and began to create digital art and music. In my senior year I developed HTML, CSS, and PHP for masoncomets.org daily.</p>
             <p>I was accepted into the University of Cincinnati's esteemed College of Design Architecture Art and Planning attending the Digital Design program in the College of Design. I graduated in 2014 with 3.5 years of experience, having launched and funded my first startup, a ridesharing social network through the Betaspring accelerator in Providence Rhode Island.</p>
-            <p>With my degree, I moved to San Diego and started freelancing digital design and Javascript software engineering. Now I'm in North County launching Digital Hyperspace, my design and technology firm. Contact me if you want to create something together!</p>
+            <p>With my degree, I moved to San Diego and started freelancing digital design and Javascript software engineering locally and through the internet. Now I'm in North County Southern California launching Digital Hyperspace, my design and technology firm. Contact me if you want to create something together!</p>
             {/*<p>
               I began programming when I was young. In middle school I learned Basic on the TI-83, then HTML from Neopets and began to create my own geocities sites. In high school I took all the programming courses available and created an independent study. Before graduation I had AP computer science credit and a working knowledge of Visual Basic, C, C#, and Java, as well as HTML, CSS, PHP and mySQL.
              </p>
