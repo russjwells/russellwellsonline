@@ -13,16 +13,17 @@ class Sidebar extends Component {
           <img src={headshot} alt="headshot" width="394" height="526"/>
           */}
         <div className="Sidebardata">
-          <div className="Oneliner">Full Stack Javascript Engineer</div>
+          <div className="Oneliner">Software Engineer &<br/> Digital Designer</div>
           <div className="PublicRepos">
-            <p>Public repositories:</p>
+            <p>My work:</p>
             <p>github.com/russjwells</p>
+            <p>behance.net/russdigital</p>
           </div>
 
           <div className="QuickContacts">
-            <p>Contact:</p>
-            <p>russ@russdigital.com</p>
-            <p>(513) 332-5252</p>
+            <p>Contact me:</p>
+            <p>russjwells@gmail.com</p>
+            <p>760.936.1704</p>
           </div>
           <div></div>
           <div></div>
