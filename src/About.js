@@ -13,6 +13,7 @@ class About extends Component {
             <p>
               I completed a BS in Design at the University of Cincinnati's DAAP. I created a ridesharing startup that partnered with transformational festivals from 2011-2013, and have been freelancing in digital product design and software enginnering ever since.
             </p>
+            <p>I love design and UX and am passionate about creating beautiful software. I love to create web apps and games, beautiful graphics and strong brands.</p>
             <p>&nbsp;</p>
             <p>
               Contact me if you'd like to work together.
