@@ -6,11 +6,27 @@ class About extends Component {
     return(
         <div className="About">
           <div className="AboutSpacer">
-            <h2>I Create Exceptional Digital Products</h2>
+            <h2>Design + Technology + Love</h2>
 
+            <p>I like to build technologies that aid in consciousness expansion and further humanitarian causes.</p>
+            <p>&nbsp;</p>
+            <p>
+              I completed a BS in Design at the University of Cincinnati's DAAP. I created a ridesharing startup that partnered with transformational festivals from 2011-2013, and have been freelancing in digital product design and software enginnering ever since.
+            </p>
+            <p>&nbsp;</p>
+            <p>
+              Contact me if you'd like to work together.
+            </p>
+            <p>&nbsp;</p>
+            <p>
+              Russell
+            </p>
+
+            {/*
             <p>I attended high school in Mason, Ohio where I developed an interest in design and technology. I studied Visual Basic, C, C++, Java, a few game engines and began to create digital art and music. In my senior year I wrote HTML, CSS, PHP and mySQL for the school website daily.</p>
             <p>I was accepted into the University of Cincinnati's esteemed College of Design Architecture Art and Planning attending the Digital Design program in the College of Design. I graduated in 2014 with 3.5 years of industry experience, and having launched my first startup, a ridesharing social network through the Betaspring accelerator in Providence Rhode Island.</p>
             <p>With my degree, I moved to San Diego and started freelancing digital design and Javascript software engineering locally and through the internet. Now I'm in North County, Southern California launching Digital Hyperspace, my design and technology firm. Contact me if you want to create something together!</p>
+            */}
             {/*<p>
               I began programming when I was young. In middle school I learned Basic on the TI-83, then HTML from Neopets and began to create my own geocities sites. In high school I took all the programming courses available and created an independent study. Before graduation I had AP computer science credit and a working knowledge of Visual Basic, C, C#, and Java, as well as HTML, CSS, PHP and mySQL.
              </p>
