@@ -10,8 +10,9 @@ class ProjectList extends Component{
             <h2>Sitting</h2>
             <p>A multi-platform meditation timer and tracker.</p>
             <p><i>react, react native, node, express</i></p>
-            <p><a href="http://www.sittingtimer.com">Web App</a> | <a href="https://github.com/russjwells/sittingweb">Repository</a></p>
+            <p><a href="http://www.sitting.io">Web App</a> | <a href="https://github.com/russjwells/sittingweb">Repository</a></p>
             <p><a href="https://itunes.apple.com/us/app/sitting-timer/id1139439714">iOS App</a> | <a href="https://github.com/russjwells/SittingApp">Repository</a></p>
+            <p>Android coming soon</p>
           </div>
         </div>
 
@@ -26,8 +27,17 @@ class ProjectList extends Component{
 
         <div className="ProjectListItem">
           <div className="ProjectInfo">
+            <h2>Twitter Clone</h2>
+            <p>I recreated the functionality of Twitter.</p>
+            <p><i>mongo, angular, express, node</i></p>
+            <p><a href="https://twittercl0ne.herokuapp.com/">Web App</a> | <a href="https://github.com/russjwells/sittingweb">Repository</a></p>
+          </div>
+        </div>
+
+        <div className="ProjectListItem">
+          <div className="ProjectInfo">
             <h2>Many Timers</h2>
-            <p>You can time everything at once right here.</p>
+            <p>You can time everything at once with this.</p>
             <p><i>react</i></p>
             <p><a href="https://github.com/russjwells/time_tracking_app">Repository</a></p>
           </div>
@@ -48,15 +58,6 @@ class ProjectList extends Component{
             <p>Search github by username. Take notes on users locally.</p>
             <p><i>react</i></p>
             <p><a href="https://github.com/russjwells/notetaker">Repository</a></p>
-          </div>
-        </div>
-
-        <div className="ProjectListItem">
-          <div className="ProjectInfo">
-            <h2>Twitter Clone</h2>
-            <p>I recreated the functionality of Twitter.</p>
-            <p><i>mongo, angular, express, node</i></p>
-            <p><a href="https://twittercl0ne.herokuapp.com/">Web App</a> | <a href="https://github.com/russjwells/sittingweb">Repository</a></p>
           </div>
         </div>
       </div>
