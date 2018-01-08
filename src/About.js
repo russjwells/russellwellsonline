@@ -11,7 +11,7 @@ class About extends Component {
             <p>I like to build technologies that aid in consciousness expansion and further humanitarian causes.</p>
             <p>&nbsp;</p>
             <p>
-              I completed a BS in Design at the University of Cincinnati's DAAP. I created a ridesharing startup that partnered with transformational festivals from 2011-2013, and have been freelancing in digital product design and software engineering ever since.
+              I completed a BS in Design at the University of Cincinnati's College of Design Architecture Art and Planning. I created a ridesharing startup that partnered with transformational festivals from 2011-2013, and have been freelancing in digital product design and software engineering ever since.
             </p>
             <p>I love design and UX and am passionate about creating beautiful software. I love to create web apps and games, beautiful graphics and strong brands.</p>
             <p>&nbsp;</p>
