@@ -6,17 +6,19 @@ class ProjectList extends Component{
     return(
       <div className="ProjectList">
         <div className="ProjectListItem">
+          <div className="ProjectPhoto"></div>
           <div className="ProjectInfo">
             <h2>Sitting</h2>
-            <p>A multi-platform meditation timer and tracker.</p>
+            <p>Meditation for the Masses.</p>
             <p><i>react, react native, node, express</i></p>
-            <p><a href="http://www.sitting.io">Web App</a> | <a href="https://github.com/russjwells/sittingweb">Repository</a></p>
+            <p><a href="http://www.sitting.io">www.sitting.io</a> | <a href="https://github.com/russjwells/sittingweb">Repository</a></p>
             <p><a href="https://itunes.apple.com/us/app/sitting-timer/id1139439714">iOS App</a> | <a href="https://github.com/russjwells/SittingApp">Repository</a></p>
-            <p>Android coming soon</p>
+            <p>Android app coming soon!</p>
           </div>
         </div>
 
         <div className="ProjectListItem">
+          <div className="ProjectPhoto"></div>
           <div className="ProjectInfo">
             <h2>Reddit Clone</h2>
             <p>Authentication, Upvotes, Comments, Comment Upvotes</p>
@@ -26,6 +28,7 @@ class ProjectList extends Component{
         </div>
 
         <div className="ProjectListItem">
+          <div className="ProjectPhoto"></div>
           <div className="ProjectInfo">
             <h2>Twitter Clone</h2>
             <p>I recreated the functionality of Twitter.</p>
@@ -35,6 +38,7 @@ class ProjectList extends Component{
         </div>
 
         <div className="ProjectListItem">
+          <div className="ProjectPhoto"></div>
           <div className="ProjectInfo">
             <h2>Many Timers</h2>
             <p>You can time everything at once with this.</p>
@@ -44,6 +48,7 @@ class ProjectList extends Component{
         </div>
 
         <div className="ProjectListItem">
+          <div className="ProjectPhoto"></div>
           <div className="ProjectInfo">
             <h2>Voting App</h2>
             <p>upvotes and downvotes</p>
@@ -53,6 +58,7 @@ class ProjectList extends Component{
         </div>
 
         <div className="ProjectListItem">
+          <div className="ProjectPhoto"></div>
           <div className="ProjectInfo">
             <h2>Github Notetaker</h2>
             <p>Search github by username. Take notes on users locally.</p>
