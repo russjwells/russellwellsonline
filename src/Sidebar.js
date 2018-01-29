@@ -4,7 +4,9 @@ import headshot from './self_color_portrait_green.png'
 class Sidebar extends Component {
   render(){
     var divStyle = {
-      backgroundImage: 'url(' + headshot + ')'
+      backgroundImage: 'url(' + headshot + ')',
+      backgroundSize: 'contain',
+      backgroundColor: 'white'
     }
     var linkStyle = {
       color: 'white',
