@@ -20,7 +20,7 @@ class About extends Component {
               </p>
             
             <p>&nbsp;</p>
-            <div className="currentLinks">I am creating <a href="https://www.sexyawakening.com">Sexy Awakening</a> and working with private clients through <a href="https://www.digitalhyperspace.com">Digital Hyperspace</a>. Please contact me if you would like to work together.</div>
+            <div className="currentLinks">I am creating <a href="https://www.sexyawakening.com">Sexy Awakening</a> and working with private clients through <a href="http://www.digitalhyperspace.com">Digital Hyperspace</a>. Please contact me if you would like to work together.</div>
             </p>
             <p>&nbsp;</p>
 
