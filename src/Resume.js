@@ -6,7 +6,7 @@ class Resume extends Component {
       <div className="Resume">
         <div className="resumeSpacer">
           <h1>Experience</h1>
-          <h2>Digital Hyperspace</h2> <p>2016 – Present </p>
+          <h2>Digital Hyperspace</h2> <p>2016 – Present</p>
           <p>Founder, software engineer</p>
           <p>www.sitting.io, www.sexyawakening.com</p>
           <h2>DAMN JOAN</h2> <p>Sept. – Oct. 2017 </p>

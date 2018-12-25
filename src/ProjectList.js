@@ -5,6 +5,15 @@ class ProjectList extends Component{
   render(){
     return(
       <div className="ProjectList">
+      <div className="ProjectListItem">
+          <div className="ProjectPhoto"></div>
+          <div className="ProjectInfo">
+            <h2>Sexy Awakening</h2>
+            <p>Swipe with intention.</p>
+            <p><i>React Native + more</i></p>
+            <p><a href="https://www.sexyawakening.com">www.sexyawakening.com</a></p>
+          </div>
+      </div>
         <div className="ProjectListItem">
           <div className="ProjectPhoto"></div>
           <div className="ProjectInfo">

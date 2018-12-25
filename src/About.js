@@ -6,22 +6,21 @@ class About extends Component {
     return(
         <div className="About">
           <div className="AboutSpacer">
-            <h1>Design + Technology + Love</h1>
-
-            <h2>I'm Russell. I like to build conscious tech.</h2>
+            <h1>Design + Media + Technology</h1>
+            <h2>Hi, I'm Russell.</h2>
+              <p>I love design and UX, and I am passionate about creating beautiful software. I create for the web and mobile devices. I make apps and games, design beautiful graphics and strong brands, and create web presences.</p>
+              <p>&nbsp;</p>
+              <p>
+               I completed my Bachelor of Science in Design at the University of Cincinnati's College of Design Architecture Art and Planning. My first business was a ridesharing startup. We partnered with various transformational festivals from 2012 – 2013 and created high vibe rides to and from them before shutting down. I have been freelancing in digital product design and software engineering ever since.
+              </p>
+              <p>&nbsp;</p>
+                <p>Based in Encinitas, CA. I take clients from all over the world.</p>
+              <p>
+              <p>
+              </p>
+            
             <p>&nbsp;</p>
-            <p>I am currently creating an online dating app for the spiritual community called Sexy Awakening. I recently created Sitting, a meditation timer, available for free at www.sitting.io.</p>
-            <p>&nbsp;</p>
-            <p>I love design and UX, and I am passionate about creating beautiful software. I love to create web apps and games, beautiful graphics and strong brands.</p>
-            <p>&nbsp;</p>
-            <p>
-              I completed my Bachelor of Science in Design at the University of Cincinnati's College of Design Architecture Art and Planning. My first business was a ridesharing startup. We partnered with various transformational festivals from 2012 – 2013 and created high vibe rides to them before shutting down. I have been freelancing in digital product design and software engineering ever since.
-            </p>
-            <p>&nbsp;</p>
-            <p>Based in Encinitas, CA. I take clients from all over the world.</p>
-            <p>
-            <p>&nbsp;</p>
-              Contact me if you would like to work together.
+            <div className="currentLinks">I am creating <a href="https://www.sexyawakening.com">Sexy Awakening</a> and working with private clients through <a href="https://www.digitalhyperspace.com">Digital Hyperspace</a>. Please contact me if you would like to work together.</div>
             </p>
             <p>&nbsp;</p>
 
