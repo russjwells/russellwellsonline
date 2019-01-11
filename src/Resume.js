@@ -5,6 +5,8 @@ class Resume extends Component {
     return(
       <div className="Resume">
         <div className="resumeSpacer">
+          <p><a href="https://www.dropbox.com/s/oy0wpa6a3v6fuxc/rw_cv_2019w_1P.pdf?dl=0">.pdf download</a></p>
+          {/*
           <h1>Experience</h1>
           <h2>Digital Hyperspace</h2> <p>2016 – Present</p>
           <p>Founder, software engineer</p>
@@ -28,6 +30,7 @@ class Resume extends Component {
           <p>Javascript, react, react native, angular, node, mongodb, express</p>
           <h2>Digital Design</h2>
           <p>UX/UI, motion graphics, branding, iconography, typography, graphic design</p>
+          */}
         </div>
       </div>
     );

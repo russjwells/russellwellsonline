@@ -8,7 +8,7 @@ class About extends Component {
           <div className="AboutSpacer">
             <h1>Design + Media + Technology</h1>
             <h2>Hi, I'm Russell.</h2>
-              <p>I love design, development and UX. I am passionate about creating beautiful software. I create for the web and mobile devices. I make apps and games, design beautiful graphics and strong brands, and create web presences.</p>
+              <p>I love design, development and UX. I am passionate about creating beautiful software. I create for the web and mobile devices. I make apps and games, design beautiful graphics and create strong brands.</p>
               <p>&nbsp;</p>
               <p>
                I completed my Bachelor of Science in Design at the University of Cincinnati's College of Design Architecture Art and Planning. My first business was a ridesharing startup. We partnered with various transformational festivals from 2012 – 2013 and created high vibe rides to and from them before shutting down. I have been freelancing in digital product design and software engineering ever since.
