@@ -13,7 +13,7 @@ class About extends Component {
               <p>
                I completed my Bachelor of Science in Design at the University of Cincinnati's College of Design Architecture Art and Planning. 
               </p>
-              <p>My first business was a ridesharing startup. We partnered with various transformational festivals from 2012 – 2013 and created high vibe rides to and from them before shutting down. I have been freelancing in digital product design and software engineering ever since.
+              <p>My first business was a transportation startup. We partnered with various transformational festivals between 2012 – 2013 and created high vibe rides to and from them before shutting down. I have been freelancing in digital product design and software engineering ever since.
               </p>
               <p>&nbsp;</p>
                 <p>Based in Encinitas, CA. I take clients from all over the world.</p>
