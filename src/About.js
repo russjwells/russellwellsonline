@@ -7,24 +7,33 @@ class About extends Component {
         <div className="About">
           <div className="AboutSpacer">
             <h1>Design + Media + Technology</h1>
-            <h2>Hi, I'm Russell.</h2>
-              <p>I love design, development and UX. I am passionate about creating beautiful software. I create for the web and mobile devices. I make apps and games, design beautiful graphics and create strong brands.</p>
+            <h2>Hello, I'm Russell Wells.</h2>
+              <p>I'm all about UX, design and development. I am passionate about creating beautiful and useful things. I create for the web and mobile devices. I make apps and games, I design beautiful graphics, and I create and market strong brands.</p>
               <p>&nbsp;</p>
+              <p>I have created several startups and I consult and freelance in the digital product design and software engineering space.
+              </p>
+              <p>&nbsp;</p>
+
+              <p>
+                <div className="currentLinks">
+                <a href="https://www.sexyawakening.com">Sexy Awakening</a> is my current startup. I'm taking private clients through <a href="http://www.digitalhyperspace.com">Digital Hyperspace</a>. Please contact me if you would like to work together.
+                </div>
+              </p>
+              <p>&nbsp;</p>
+
               <p>
                I completed my Bachelor of Science in Design at the University of Cincinnati's College of Design Architecture Art and Planning. 
               </p>
-              <p>My first business was a transportation startup. We partnered with various transformational festivals between 2012 – 2013 and created high vibe rides to and from them before shutting down. I have been freelancing in digital product design and software engineering ever since.
-              </p>
               <p>&nbsp;</p>
-                <p>Based in Encinitas, CA. I take clients from all over the world.</p>
-              <p>
-              <p>
-              </p>
+                <p>I am currently based in Encinitas, CA, and I serve clients from all over the world by creating exceptional products and experiences.
+                </p>
+              
+              
             
             <p>&nbsp;</p>
-            <div className="currentLinks">I am creating <a href="https://www.sexyawakening.com">Sexy Awakening</a> and working with private clients through <a href="http://www.digitalhyperspace.com">Digital Hyperspace</a>. Please contact me if you would like to work together.</div>
-            </p>
-            <p>&nbsp;</p>
+            
+            
+            
 
             {/*
             <p>I attended high school in Mason, Ohio where I developed an interest in design and technology. I studied Visual Basic, C, C++, Java, a few game engines and began to create digital art and music. In my senior year I wrote HTML, CSS, PHP and mySQL for the school website daily.</p>
