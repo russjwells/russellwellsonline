@@ -4,7 +4,8 @@ import './App.css';
 import { Router, Route, browserHistory, IndexRoute } from 'react-router';
 import Site from './Site.js';
 import Resume from './Resume.js';
-import Showcase from './Showcase.js'
+import Software from './Software.js'
+import Design from './Design.js'
 import About from './About.js'
 
 class App extends Component {
@@ -13,7 +14,8 @@ class App extends Component {
       <Router history={ browserHistory }>
         <Route path="/" component={Site}>
           <IndexRoute component={About}></IndexRoute>
-          <Route path="showcase" component={Showcase}></Route>
+          <Route path="software" component={Software}></Route>
+          <Route path="design" component={Design}></Route>
           <Route path="resume" component={Resume}></Route>
         </Route>
       </Router>

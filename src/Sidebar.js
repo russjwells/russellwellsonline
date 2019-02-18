@@ -25,7 +25,7 @@ class Sidebar extends Component {
         <div className="Sidebardata">
           <div className="Oneliner">Software Engineer &<br/> Digital Designer</div>
           <div className="PublicRepos">
-            <p>My work:</p>
+            <p><b>More of my work</b></p>
             <p><a target="_blank" href="http://github.com/russjwells" style={linkStyle} hoverStyle={hoverStyle}>Software</a></p>
             <p><a target="_blank" href="http://behance.net/russjwells" style={linkStyle}>Design</a></p>
             <p><a target="_blank" href="http://vimeo.com/russjwells" style={linkStyle}>Video</a></p>
@@ -34,9 +34,9 @@ class Sidebar extends Component {
           </div>
 
           <div className="QuickContacts">
-            <p>Contact me:</p>
+            <p><b>Contact</b></p>
             <p>russjwells@gmail.com</p>
-            <p>760.936.1704</p>
+            <p>760-936-1704</p>
           </div>
         </div>
       </div>

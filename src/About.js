@@ -8,7 +8,7 @@ class About extends Component {
           <div className="AboutSpacer">
             <h1>Design + Media + Technology</h1>
             <h2>Hello, I'm Russell Wells.</h2>
-              <p>I'm all about UX, design and development. I am passionate about creating beautiful and useful things. I create for the web and mobile devices. I make apps and games, I design beautiful graphics, and I create and market strong brands.</p>
+              <p>I'm all about digital products, UX, design and development. I am passionate about creating beautiful and useful things. I like to create for the web and for mobile devices. I make apps and games, I design beautiful graphics, and I create and market strong brands.</p>
               <p>&nbsp;</p>
               <p>I have created several startups and I consult and freelance in the digital product design and software engineering space.
               </p>
@@ -16,7 +16,7 @@ class About extends Component {
 
               <p>
                 <div className="currentLinks">
-                <a href="https://www.sexyawakening.com">Sexy Awakening</a> is my current startup. I'm taking private clients through <a href="http://www.digitalhyperspace.com">Digital Hyperspace</a>. Please contact me if you would like to work together.
+                <a href="https://www.sexyawakening.com">Sexy Awakening</a> is my current startup. I take clients through my agency <a href="http://www.digitalhyperspace.com">Digital Hyperspace</a>. Please contact me if you would like to work together.
                 </div>
               </p>
               <p>&nbsp;</p>
