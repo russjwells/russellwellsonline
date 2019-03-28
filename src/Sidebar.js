@@ -26,17 +26,18 @@ class Sidebar extends Component {
           <div className="Oneliner">Software Engineer &<br/> Digital Designer</div>
           <div className="PublicRepos">
             <p><b>More of my work</b></p>
-            <p><a target="_blank" href="http://github.com/russjwells" style={linkStyle} hoverStyle={hoverStyle}>Software</a></p>
-            <p><a target="_blank" href="http://behance.net/russjwells" style={linkStyle}>Design</a></p>
-            <p><a target="_blank" href="http://vimeo.com/russjwells" style={linkStyle}>Video</a></p>
-            <p><a target="_blank" href="https://www.flickr.com/photos/29084693@N03/" style={linkStyle}>Photography</a></p>
-            <p><a target="_blank" href="https://soundcloud.com/lightofnature" style={linkStyle}>Music</a></p>
+            <p><a target="_blank" href="http://github.com/russjwells" style={linkStyle} hoverStyle={hoverStyle}>Github</a></p>
+            <p><a target="_blank" href="http://behance.net/russjwells" style={linkStyle}>Behance</a></p>
+            <p><a target="_blank" href="http://vimeo.com/russjwells" style={linkStyle}>Vimeo</a></p>
+            <p><a target="_blank" href="https://www.flickr.com/photos/29084693@N03/" style={linkStyle}>Flickr</a></p>
+            <p><a target="_blank" href="https://soundcloud.com/lightofnature" style={linkStyle}>Soundcloud</a></p>
           </div>
 
           <div className="QuickContacts">
-            <p><b>Contact</b></p>
+            <p><b>Points of Contact</b></p>
             <p>russjwells@gmail.com</p>
             <p>760-936-1704</p>
+            <p><a target="_blank" href="https://www.linkedin.com/in/russjwells/" style={linkStyle}>LinkedIn</a></p>
           </div>
         </div>
       </div>
