@@ -5,8 +5,9 @@ class Sidebar extends Component {
   render(){
     var divStyle = {
       backgroundImage: 'url(' + headshot + ')',
-      backgroundSize: 'contain',
-      backgroundColor: 'white'
+      backgroundSize: 'cover',
+      backgroundColor: 'white',
+      backgroundPosition: 'center bottom'
     }
     var linkStyle = {
       color: 'white',
