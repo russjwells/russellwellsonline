@@ -8,7 +8,7 @@ class About extends Component {
           <div className="AboutSpacer">
             <h1>Hello, I'm Russell Wells. I create exceptional digital experiences.</h1>
             <h2>Great design creates ease and luxury in life.</h2>
-              <p>I like to create digital products. I am passionate about creating beautiful, useful things. I am a professional UX designer, UI designer, graphic designer and software engineer. I like to create applications for the web and for mobile devices. I have made 2D and 3D games. I enjoy doing graphics and video for musicians. I enjoy branding independent businesses.</p>
+              <p>I like to create digital products. I am passionate about creating beautiful, useful things. I am a professional UX designer, UI designer, graphic designer and software engineer. I like to create digital products, new media, and applications for the web and for mobile devices. I have made 2D and 3D games. I enjoy doing graphics and video for musicians. I enjoy branding independent businesses.</p>
               <p>&nbsp;</p>
               <p>I consult and freelance in the digital product design, ux, and software engineering spaces.
               </p>
