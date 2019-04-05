@@ -7,7 +7,7 @@ class Resume extends Component {
         <div className="resumeSpacer">
           <h2>Software Engineering</h2>
           <p><a href="https://www.dropbox.com/s/5n251tbs1h0klfa/rw_cv_2019w_1P_v2.pdf?dl=1">download the .pdf</a></p>
-          <h2>Design</h2>
+          <h2>Digital Design</h2>
           <p><a href="https://www.dropbox.com/s/lq0f5tsrdrfsn8i/rw_cv_2019s_ux.pdf?dl=1">download the .pdf</a></p>
           <h2>Hybrid Positions</h2>
           <p><a href="https://www.dropbox.com/s/z09f8mfs4rax4r2/rw_cv_2019s_hybrid.pdf?dl=1">download the .pdf</a></p>
