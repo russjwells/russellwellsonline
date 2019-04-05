@@ -6,17 +6,17 @@ class About extends Component {
     return(
         <div className="About">
           <div className="AboutSpacer">
-            <h1>Design + Media + Technology</h1>
-            <h2>Hello, I'm Russell Wells.</h2>
-              <p>I'm all about digital products, UX, design and development. I am passionate about creating beautiful and useful things. I like to create for the web and for mobile devices. I make apps and games, I design beautiful graphics, and I create and market strong brands.</p>
+            <h1>Hello, I'm Russell Wells. I create exceptional digital experiences.</h1>
+            <h2>Great design creates ease and luxury in life.</h2>
+              <p>I like to create digital products. I am passionate about creating beautiful, useful things. I am a professional UX designer, UI designer, graphic designer and software engineer. I like to create applications for the web and for mobile devices. I have made 2D and 3D games. I enjoy doing graphics and video for musicians. I enjoy branding independent businesses.</p>
               <p>&nbsp;</p>
-              <p>I have created several startups and I consult and freelance in the digital product design and software engineering space.
+              <p>I consult and freelance in the digital product design, ux, and software engineering spaces.
               </p>
               <p>&nbsp;</p>
 
               <p>
                 <div className="currentLinks">
-                <a href="https://www.sexyawakening.com">Sexy Awakening</a> is my current startup. I take clients through my agency <a href="http://www.digitalhyperspace.com">Digital Hyperspace</a>. Please contact me if you would like to work together.
+                I have created several startups. <a href="https://www.sexyawakening.com">Sexy Awakening</a> is currently ongoing. I take clients through my agency <a href="http://www.digitalhyperspace.com">Digital Hyperspace</a>.
                 </div>
               </p>
               <p>&nbsp;</p>
@@ -25,7 +25,7 @@ class About extends Component {
                I completed my Bachelor of Science in Design at the University of Cincinnati's College of Design Architecture Art and Planning. 
               </p>
               <p>&nbsp;</p>
-                <p>I am currently based in Encinitas, CA, and I serve clients from all over the world by creating exceptional products and experiences.
+                <p>I am based in Encinitas, CA, and I serve clients all over the world.
                 </p>
               
               
