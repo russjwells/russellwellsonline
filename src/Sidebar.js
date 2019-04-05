@@ -27,6 +27,7 @@ class Sidebar extends Component {
           <div className="PublicRepos">
             <p><b>More of my work</b></p>
             <p><a target="_blank" href="http://github.com/russjwells" style={linkStyle} hoverStyle={hoverStyle}>Github</a></p>
+            <p><a target="_blank" href="http://dribbble.com/russjwells" style={linkStyle}>Dribbble</a></p>
             <p><a target="_blank" href="http://behance.net/russjwells" style={linkStyle}>Behance</a></p>
             <p><a target="_blank" href="http://vimeo.com/russjwells" style={linkStyle}>Vimeo</a></p>
             <p><a target="_blank" href="https://www.flickr.com/photos/29084693@N03/" style={linkStyle}>Flickr</a></p>
