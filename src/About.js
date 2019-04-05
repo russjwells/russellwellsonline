@@ -8,7 +8,7 @@ class About extends Component {
           <div className="AboutSpacer">
             <h1>Hello, I'm Russell Wells. I create exceptional digital experiences.</h1>
             <h2>Great design creates ease and luxury in life.</h2>
-              <p>I like to create digital products. I am passionate about creating beautiful, useful things. I am a professional UX designer, UI designer, graphic designer and software engineer. I like to create digital products, new media, and applications for the web and for mobile devices. I have made 2D and 3D games. I enjoy doing graphics and video for musicians. I enjoy branding independent businesses.</p>
+              <p>I like to create digital products. I am passionate about creating beautiful, useful things. I am a professional UX designer, UI designer, graphic designer, motion graphics artist and software engineer. </p>
               <p>&nbsp;</p>
               <p>I consult and freelance in the digital product design, ux, and software engineering spaces.
               </p>
@@ -16,7 +16,7 @@ class About extends Component {
 
               <p>
                 <div className="currentLinks">
-                I have created several startups. <a href="https://www.sexyawakening.com">Sexy Awakening</a> is currently ongoing. I take clients through my agency <a href="http://www.digitalhyperspace.com">Digital Hyperspace</a>.
+                I have created several startups. <a href="https://www.sexyawakening.com">Sexy Awakening</a> is currently ongoing. I take clients through my agency <a href="http://www.digitalhyperspace.com">Digital Hyperspace</a>. I like to create digital products, new media, and applications for the web and for mobile devices. I have made 2D and 3D games. I enjoy doing graphics and video for musicians. I enjoy branding independent businesses.
                 </div>
               </p>
               <p>&nbsp;</p>
