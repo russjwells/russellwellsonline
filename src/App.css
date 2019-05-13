@@ -191,6 +191,7 @@ img {
   background-size: cover;
   background-repeat: no-repeat;
   flex-grow: 3;
+  flex: 30;
 }
 .Rightside {
   background-color: #FEFFF8;
