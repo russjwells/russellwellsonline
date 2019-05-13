@@ -6,9 +6,9 @@ class About extends Component {
     return(
         <div className="About">
           <div className="AboutSpacer">
-            <h1>Hello, I'm Russell Wells. I create exceptional digital experiences.</h1>
-            <h2>Great design creates ease and luxury in life.</h2>
-              <p>I like to create digital products. I am passionate about creating beautiful, useful, and elegant things. I am a professional digital designer and software engineer.</p>
+            <h1>Hello, I'm Russell Wells. I create exceptional human experiences with design media and technology.</h1>
+            <h2>Great design creates easy and luxurious life!</h2>
+              <p>I am passionate about creating beautiful, useful, and elegant things. I am a professional digital designer and software engineer. I like to create digital products. </p>
               <p>&nbsp;</p>
               <p>I consult and freelance in UX, UI, graphic design, motion graphics, branding and software development.
               </p>
