@@ -11,11 +11,11 @@ class Sidebar extends Component {
     }
     var linkStyle = {
       color: 'white',
-      textDecoration: 'none'
+      //textDecoration: 'none'
     }
     var hoverStyle = {
-      color: 'white',
-      textDecoration: 'underline'
+      //color: 'white',
+      //textDecoration: 'underline'
     }
     return (
       <div className="Sidebar">
@@ -28,11 +28,11 @@ class Sidebar extends Component {
           <div className="PublicRepos">
             <p><b>More of my work</b></p>
             <p><a target="_blank" href="http://github.com/russjwells" style={linkStyle} hoverStyle={hoverStyle}>Github</a></p>
-            <p><a target="_blank" href="http://dribbble.com/russjwells" style={linkStyle}>Dribbble</a></p>
-            <p><a target="_blank" href="http://behance.net/russjwells" style={linkStyle}>Behance</a></p>
-            <p><a target="_blank" href="http://vimeo.com/russjwells" style={linkStyle}>Vimeo</a></p>
-            <p><a target="_blank" href="https://www.flickr.com/photos/29084693@N03/" style={linkStyle}>Flickr</a></p>
-            <p><a target="_blank" href="https://soundcloud.com/lightofnature" style={linkStyle}>Soundcloud</a></p>
+            <p><a target="_blank" href="http://dribbble.com/russjwells" style={linkStyle} hoverStyle={hoverStyle}>Dribbble</a></p>
+            <p><a target="_blank" href="http://behance.net/russjwells" style={linkStyle} hoverStyle={hoverStyle}>Behance</a></p>
+            <p><a target="_blank" href="http://vimeo.com/russjwells" style={linkStyle} hoverStyle={hoverStyle}>Vimeo</a></p>
+            <p><a target="_blank" href="https://www.flickr.com/photos/29084693@N03/" style={linkStyle} hoverStyle={hoverStyle}>Flickr</a></p>
+            <p><a target="_blank" href="https://soundcloud.com/lightofnature" style={linkStyle} hoverStyle={hoverStyle}>Soundcloud</a></p>
           </div>
 
           <div className="QuickContacts">
