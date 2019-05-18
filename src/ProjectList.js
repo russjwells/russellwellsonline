@@ -10,7 +10,7 @@ class ProjectList extends Component{
           <div className="ProjectInfo">
             <h2>Sexy Awakening</h2>
             <p>Swipe with intention.</p>
-            <p><i>React Native + more</i></p>
+            <p><i>react, react native, Serverless AWS, firebase & more</i></p>
             <p><a href="https://www.sexyawakening.com">www.sexyawakening.com</a></p>
           </div>
       </div>
@@ -20,7 +20,7 @@ class ProjectList extends Component{
             <h2>Sitting</h2>
             <p>Meditation for the Masses.</p>
             <p><i>react, react native, node, express</i></p>
-            <p><a href="http://www.sitting.io">www.sitting.io</a> | <a href="https://github.com/russjwells/sittingweb">Repository</a></p>
+            <p><a href="https://sitting.netlify.com">www.sitting.io</a> | <a href="https://github.com/russjwells/sittingweb">Repository</a></p>
             <p><a href="https://itunes.apple.com/us/app/sitting-timer/id1139439714">iOS App</a> | <a href="https://github.com/russjwells/SittingApp">Repository</a></p>
             <p>Android app coming soon!</p>
           </div>
