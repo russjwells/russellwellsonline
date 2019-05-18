@@ -32,7 +32,9 @@ class Sidebar extends Component {
             <p><a target="_blank" href="http://behance.net/russjwells" style={linkStyle} hoverStyle={hoverStyle}>Behance</a></p>
             <p><a target="_blank" href="http://vimeo.com/russjwells" style={linkStyle} hoverStyle={hoverStyle}>Vimeo</a></p>
             <p><a target="_blank" href="https://www.flickr.com/photos/29084693@N03/" style={linkStyle} hoverStyle={hoverStyle}>Flickr</a></p>
+            {/*<p><a target="_blank" href="https://500px.com/russjwells" style={linkStyle} hoverStyle={hoverStyle}>500px</a></p>*/}
             <p><a target="_blank" href="https://soundcloud.com/lightofnature" style={linkStyle} hoverStyle={hoverStyle}>Soundcloud</a></p>
+            {/*<p><a target="_blank" href="https://light0fnature.bandcamp.com" style={linkStyle} hoverStyle={hoverStyle}>Bandcamp</a></p>*/}
           </div>
 
           <div className="QuickContacts">
