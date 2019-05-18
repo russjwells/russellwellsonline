@@ -8,6 +8,10 @@ import Software from './Software.js'
 import Design from './Design.js'
 import About from './About.js'
 
+import ReactGA from 'react-ga'
+ReactGA.initialize('UA-131525485-5', { standardImplementation: true, siteSpeedSampleRate: 100 })
+ReactGA.pageview(window.location.pathname + window.location.search)
+
 class App extends Component {
   render() {
     return (
