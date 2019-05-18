@@ -16,7 +16,7 @@ class About extends Component {
 
               <p>
                 <div className="currentLinks">
-                I have created several startups. <a href="https://www.sexyawakening.com">Sexy Awakening</a> is currently ongoing. I take clients through my agency <a href="http://www.digitalhyperspace.com">Digital Hyperspace</a>. I like to create digital products, new media, and applications for the web and for mobile devices. I have made 2D and 3D games. I enjoy doing graphics and video for musicians. I enjoy branding independent businesses.
+                I have created several startups. <a target="_blank" href="https://www.sexyawakening.com">Sexy Awakening</a> is my current personal project. I take clients through my agency <a target="_blank" href="http://www.digitalhyperspace.com">Digital Hyperspace</a>. I like to create digital products, new media, and applications for the web and for mobile devices. I have made 2D and 3D games. I enjoy doing graphics and video for musicians. I enjoy branding independent businesses.
                 </div>
               </p>
               <p>&nbsp;</p>
