@@ -8,15 +8,15 @@ class About extends Component {
           <div className="AboutSpacer">
             <h1>Hello, I'm Russell Wells. I create exceptional human experiences with design media and technology.</h1>
             <h2>Great design creates an easy and luxurious life!</h2>
-              <p>I am passionate about creating beautiful, useful, and elegant things. I am a professional digital designer and software engineer. I like to create digital products. </p>
+              <p>I am passionate about creating beautiful, useful, and elegant things. I am a product designer and software engineer with skills in UX, UI, motion graphics, graphic design, video and audio. I like to create digital products. These days it's mostly apps and web apps, but I have experience in games as well.</p>
               <p>&nbsp;</p>
-              <p>I consult and freelance in UX, UI, graphic design, motion graphics, branding and software development.
+              <p>I consult and freelance in UX, UI, graphic design, motion graphics, branding and software development. Hire me for something!
               </p>
               <p>&nbsp;</p>
 
               <p>
                 <div className="currentLinks">
-                I have created several startups. <a target="_blank" href="https://www.sexyawakening.com">Sexy Awakening</a> is my current personal project. I take clients through my agency <a target="_blank" href="http://www.digitalhyperspace.com">Digital Hyperspace</a>. I like to create digital products, new media, and applications for the web and for mobile devices. I have made 2D and 3D games. I enjoy doing graphics and video for musicians. I enjoy branding independent businesses.
+                <a target="_blank" href="https://www.sexyawakening.com">Sexy Awakening</a> is my current startup. I take clients through my agency <a target="_blank" href="http://www.digitalhyperspace.com">Hyperspace</a>. I enjoy doing graphics and video for musicians and branding independent businesses. Let's do a photoshoot!
                 </div>
               </p>
               <p>&nbsp;</p>
@@ -25,7 +25,7 @@ class About extends Component {
                I completed my Bachelor of Science in Design at the University of Cincinnati's College of Design Architecture Art and Planning. 
               </p>
               <p>&nbsp;</p>
-                <p>I am based in Encinitas, CA, and I serve clients all over the world.
+                <p>
                 </p>
               
               

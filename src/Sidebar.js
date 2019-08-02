@@ -24,7 +24,7 @@ class Sidebar extends Component {
           <img src={headshot} alt="headshot" width="394" height="526"/>
           */}
         <div className="Sidebardata">
-          <div className="Oneliner">Digital Designer &<br /> Software Engineer</div>
+          <div className="Oneliner">Product Designer &<br /> Software Engineer</div>
           <div className="PublicRepos">
             <p><b>More of my work</b></p>
             <p><a target="_blank" href="http://github.com/russjwells" style={linkStyle} hoverStyle={hoverStyle}>Github</a></p>

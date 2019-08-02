@@ -6,7 +6,7 @@ class Design extends Component {
     return(
       <div className="ProjectList">
           <h2>Live Websites</h2>
-          <p><a target="_blank" href="https://www.damnjoan.com">www.damnjoan.com</a>, <a target="_blank" href="https://www.battlehigh2.com">www.battlehigh2.com</a>, <a target="_blank" href="https://www.digitalhyperspace.com">www.digitalhyperspace.com</a>, <a target="_blank" href="https://www.cosmicloveenergyhealing.com">www.cosmicloveenergyhealing.com</a>, <a target="_blank" href="http://www.lightofnature.org">www.lightofnature.org</a>, <a target="_blank" href="https://www.sexyawakening.com">www.sexyawakening.com</a></p>
+          <p><a target="_blank" href="https://www.damnjoan.com">www.damnjoan.com</a>, <a target="_blank" href="https://www.battlehigh2.com">www.battlehigh2.com</a> <a target="_blank" href="http://www.lightofnature.org">www.lightofnature.org</a>, <a target="_blank" href="https://www.sexyawakening.com">www.sexyawakening.com</a></p>
           <h2>Graphics for the web and print</h2>
           <p>Look at <a target="_blank" href="https://www.behance.net/russjwells">behance</a> and <a target="_blank" href="http://dribbble.com/russjwells">dribbble</a>.</p>
           <h2>Video, motion graphics & animation</h2>
