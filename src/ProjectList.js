@@ -19,13 +19,15 @@ class ProjectList extends Component{
           <div className="ProjectInfo">
             <h2>Sitting</h2>
             <p>Meditation for the Masses.</p>
+            <p><a target="_blank" href="https://www.sitting.app">www.sitting.app</a></p>
             <p><i>react, react native, node, express</i></p>
             <p><a target="_blank" href="https://sitting.app">Web App</a> | <a target="_blank" href="https://github.com/russjwells/sittingweb">Repository</a></p>
             <p><a target="_blank" href="https://itunes.apple.com/us/app/sitting-timer/id1139439714">iOS App</a> | <a target="_blank" href="https://github.com/russjwells/SittingApp">Repository</a></p>
-            <p>Android app coming soon!</p>
+            <p>Android app coming!</p>
           </div>
         </div>
-
+        {
+          /*
         <div className="ProjectListItem">
           <div className="ProjectPhoto"></div>
           <div className="ProjectInfo">
@@ -75,6 +77,7 @@ class ProjectList extends Component{
             <p><a target="_blank" href="https://github.com/russjwells/notetaker">Repository</a></p>
           </div>
         </div>
+        */}
       </div>
     )
   }
