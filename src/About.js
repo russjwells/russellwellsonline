@@ -6,17 +6,17 @@ class About extends Component {
     return(
         <div className="About">
           <div className="AboutSpacer">
-            <h1>Hello, I'm Russell Wells. I create exceptional human experiences with design media and technology.</h1>
+            <h1>Hello, I'm Russell Wells. I create exceptional experiences with design media and technology.</h1>
             <h2>Great design creates an easy and luxurious life!</h2>
               <p>I am passionate about creating beautiful, useful, and elegant things. I am a product designer and software engineer with skills in UX, UI, motion graphics, graphic design, video and audio. I like to create digital products. These days it's mostly apps and web apps, but I have experience in games as well.</p>
               <p>&nbsp;</p>
-              <p>I consult and freelance in UX, UI, graphic design, motion graphics, branding and software development. Hire me for something!
+              <p>I consult and freelance in UX, UI, graphic design, motion graphics, branding and software development.
               </p>
               <p>&nbsp;</p>
 
               <p>
                 <div className="currentLinks">
-                <a target="_blank" href="https://www.sexyawakening.com">Sexy Awakening</a> is my current startup. I take clients through my agency <a target="_blank" href="http://www.digitalhyperspace.com">Hyperspace</a>. I enjoy doing graphics and video for musicians and branding independent businesses. Let's do a photoshoot!
+                I take clients through my agency, <a target="_blank" href="http://www.hyperspace.im">Hyperspace</a>. I enjoy doing graphics and video for musicians and branding independent businesses. I am also available for personal photoshoots.
                 </div>
               </p>
               <p>&nbsp;</p>

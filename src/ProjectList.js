@@ -9,17 +9,17 @@ class ProjectList extends Component{
           <div className="ProjectPhoto"></div>
           <div className="ProjectInfo">
             <h2>Sexy Awakening</h2>
+            <p><a target="_blank" href="https://www.sexyawakening.com">www.sexyawakening.com</a></p>
             <p>Swipe with intention.</p>
             <p><i>react, react native, serverless aws, firebase & more</i></p>
-            <p><a target="_blank" href="https://www.sexyawakening.com">www.sexyawakening.com</a></p>
           </div>
       </div>
         <div className="ProjectListItem">
           <div className="ProjectPhoto"></div>
           <div className="ProjectInfo">
             <h2>Sitting</h2>
-            <p>Meditation for the Masses.</p>
             <p><a target="_blank" href="https://www.sitting.app">www.sitting.app</a></p>
+            <p>Meditation for the Masses.</p>
             <p><i>react, react native, node, express</i></p>
             <p><a target="_blank" href="https://sitting.app">Web App</a> | <a target="_blank" href="https://github.com/russjwells/sittingweb">Repository</a></p>
             <p><a target="_blank" href="https://itunes.apple.com/us/app/sitting-timer/id1139439714">iOS App</a> | <a target="_blank" href="https://github.com/russjwells/SittingApp">Repository</a></p>
