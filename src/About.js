@@ -70,6 +70,7 @@ class About extends Component {
                username={"russellwells"}
              />
              </p>*/}
+            
           </div>
         </div>
     );

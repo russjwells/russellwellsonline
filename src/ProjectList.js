@@ -20,7 +20,7 @@ class ProjectList extends Component{
             <h2>Sitting</h2>
             <p>Meditation for the Masses.</p>
             <p><i>react, react native, node, express</i></p>
-            <p><a target="_blank" href="https://sitting.netlify.com">Web App</a> | <a target="_blank" href="https://github.com/russjwells/sittingweb">Repository</a></p>
+            <p><a target="_blank" href="https://sitting.app">Web App</a> | <a target="_blank" href="https://github.com/russjwells/sittingweb">Repository</a></p>
             <p><a target="_blank" href="https://itunes.apple.com/us/app/sitting-timer/id1139439714">iOS App</a> | <a target="_blank" href="https://github.com/russjwells/SittingApp">Repository</a></p>
             <p>Android app coming soon!</p>
           </div>
