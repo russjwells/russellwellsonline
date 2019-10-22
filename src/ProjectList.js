@@ -5,16 +5,26 @@ class ProjectList extends Component{
   render(){
     return(
       <div className="ProjectList">
-      <div className="ProjectListItem">
+        <div className="ProjectListItem">
+            <div className="ProjectPhoto"></div>
+            <div className="ProjectInfo">
+              <h2>Sexy Awakening</h2>
+              <p><a target="_blank" href="https://www.sexyawakening.com">www.sexyawakening.com</a></p>
+              <p>Swipe with intention. The best way to meet people online.</p>
+              <p><i>react, react native, serverless aws, firebase, node & more</i></p>
+              <p>Relaunching soon for iOS, Android, and web.</p>
+            </div>
+        </div>
+        <div className="ProjectListItem">
           <div className="ProjectPhoto"></div>
           <div className="ProjectInfo">
-            <h2>Sexy Awakening</h2>
-            <p><a target="_blank" href="https://www.sexyawakening.com">www.sexyawakening.com</a></p>
-            <p>Swipe with intention. The best way to meet people online.</p>
-            <p><i>react, react native, serverless aws, firebase & more</i></p>
-            <p>Relaunching soon for iOS, Android, and web.</p>
+            <h2>Damn Joan</h2>
+            <p><a target="_blank" href="https://www.damnjoan.com">www.damnjoan.com</a></p>
+            <p>Alt web mag out of Manhattan.</p>
+            <p><i>product design, sketch, zepplin, abstract</i></p>
+            <p>See all five editions.</p>
           </div>
-      </div>
+        </div>
         <div className="ProjectListItem">
           <div className="ProjectPhoto"></div>
           <div className="ProjectInfo">
@@ -27,6 +37,45 @@ class ProjectList extends Component{
             <p>Android app coming!</p>
           </div>
         </div>
+        {/*
+        <div className="ProjectListItem">
+          <div className="ProjectPhoto"></div>
+          <div className="ProjectInfo">
+            <h2>Galactic Zoo</h2>
+            <p><a target="_blank" href="https://www.sitting.app">www.sitting.app</a></p>
+            <p>Meditation for the Masses.</p>
+            <p><i>react, react native, node, express</i></p>
+            <p><a target="_blank" href="https://sitting.app">Web App</a> | <a target="_blank" href="https://github.com/russjwells/sittingweb">Repository</a></p>
+            <p><a target="_blank" href="https://itunes.apple.com/us/app/sitting-timer/id1139439714">iOS App</a> | <a target="_blank" href="https://github.com/russjwells/SittingApp">Repository</a></p>
+            <p>Android app coming!</p>
+          </div>
+        </div>
+        
+        <div className="ProjectListItem">
+          <div className="ProjectPhoto"></div>
+          <div className="ProjectInfo">
+            <h2>Promethean Temples</h2>
+            <p><a target="_blank" href="https://www.sitting.app">www.sitting.app</a></p>
+            <p>Meditation for the Masses.</p>
+            <p><i>react, react native, node, express</i></p>
+            <p><a target="_blank" href="https://sitting.app">Web App</a> | <a target="_blank" href="https://github.com/russjwells/sittingweb">Repository</a></p>
+            <p><a target="_blank" href="https://itunes.apple.com/us/app/sitting-timer/id1139439714">iOS App</a> | <a target="_blank" href="https://github.com/russjwells/SittingApp">Repository</a></p>
+            <p>Android app coming!</p>
+          </div>
+        </div>
+        <div className="ProjectListItem">
+          <div className="ProjectPhoto"></div>
+          <div className="ProjectInfo">
+            <h2>Harmonize</h2>
+            <p><a target="_blank" href="https://www.sitting.app">www.sitting.app</a></p>
+            <p>Meditation for the Masses.</p>
+            <p><i>react, react native, node, express</i></p>
+            <p><a target="_blank" href="https://sitting.app">Web App</a> | <a target="_blank" href="https://github.com/russjwells/sittingweb">Repository</a></p>
+            <p><a target="_blank" href="https://itunes.apple.com/us/app/sitting-timer/id1139439714">iOS App</a> | <a target="_blank" href="https://github.com/russjwells/SittingApp">Repository</a></p>
+            <p>Android app coming!</p>
+          </div>
+        </div>
+        */}
         {
           /*
         <div className="ProjectListItem">
