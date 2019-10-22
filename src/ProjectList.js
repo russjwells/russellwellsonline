@@ -10,8 +10,9 @@ class ProjectList extends Component{
           <div className="ProjectInfo">
             <h2>Sexy Awakening</h2>
             <p><a target="_blank" href="https://www.sexyawakening.com">www.sexyawakening.com</a></p>
-            <p>Swipe with intention.</p>
+            <p>Swipe with intention. The best way to meet people online.</p>
             <p><i>react, react native, serverless aws, firebase & more</i></p>
+            <p>Relaunching soon for iOS, Android, and web.</p>
           </div>
       </div>
         <div className="ProjectListItem">
