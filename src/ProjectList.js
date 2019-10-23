@@ -37,6 +37,15 @@ class ProjectList extends Component{
             <p>Android app coming!</p>
           </div>
         </div>
+        <div className="ProjectListItem">
+          <div className="ProjectPhoto"></div>
+          <div className="ProjectInfo">
+            <h2>The Galactic Zoo</h2>
+            <p><a target="_blank" href="https://galacticzoo.herokuapp.com">Galactic Zoo</a></p>
+            <p>Share – Learn – Imagine</p>
+            <p><i>mongo, angular, express, node</i></p>
+          </div>
+        </div>
         {/*
         <div className="ProjectListItem">
           <div className="ProjectPhoto"></div>
