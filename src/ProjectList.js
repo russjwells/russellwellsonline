@@ -46,6 +46,24 @@ class ProjectList extends Component{
             <p><i>mongo, angular, express, node</i></p>
           </div>
         </div>
+        <div className="ProjectListItem">
+          <div className="ProjectPhoto"></div>
+          <div className="ProjectInfo">
+            <h2>Promethean Temples</h2>
+            <p><a target="_blank" href="#">Promethean Temples</a></p>
+            <p>Prodcedural multiplayer first person maze.</p>
+            <p><i>Unity3D, C#</i></p>
+          </div>
+        </div>
+        <div className="ProjectListItem">
+          <div className="ProjectPhoto"></div>
+          <div className="ProjectInfo">
+            <h2>Harmonize</h2>
+            <p><a target="_blank" href="https://www.youtube.com/watch?v=-8szQw0YyBA&t=5s">Harmonize on YouTube</a></p>
+            <p>Permaculture through Play</p>
+            <p><i>Unity3D, Cinema 4D, JavaScript, Photoshop, Illustrator</i></p>
+          </div>
+        </div>
         {/*
         <div className="ProjectListItem">
           <div className="ProjectPhoto"></div>
