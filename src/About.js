@@ -16,7 +16,7 @@ class About extends Component {
 
               <p>
                 <div className="currentLinks">
-                I take clients through my agency, <a target="_blank" href="http://www.hyperspace.im">Hyperspace</a>. I enjoy doing graphics and video for musicians and branding independent businesses. I am also available for personal photoshoots.
+                I also enjoy doing graphics and video for musicians and branding independent businesses. I am available for photoshoots. I am currently based out of SD/LA.
                 </div>
               </p>
               <p>&nbsp;</p>
