@@ -8,6 +8,16 @@ class ProjectList extends Component{
         <div className="ProjectListItem">
             <div className="ProjectPhoto"></div>
             <div className="ProjectInfo">
+              <h2>Chroma Drum</h2>
+              <p><a target="_blank" href="https://www.chromadrum.com">www.chromadrum.com</a></p>
+              <p>I integrated affirm payments on this shopify store.</p>
+              <p><i>shopify, liquid, javascript</i></p>
+              <p>Better ecommerce in time for black friday.</p>
+            </div>
+        </div>
+        <div className="ProjectListItem">
+            <div className="ProjectPhoto"></div>
+            <div className="ProjectInfo">
               <h2>Sexy Awakening</h2>
               <p><a target="_blank" href="https://www.sexyawakening.com">www.sexyawakening.com</a></p>
               <p>Swipe with intention. The best way to meet people online.</p>
