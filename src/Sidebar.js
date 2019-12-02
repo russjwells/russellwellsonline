@@ -26,7 +26,7 @@ class Sidebar extends Component {
         <div className="Sidebardata">
           <div className="Oneliner">Software Engineer &<br /> Product Designer</div>
           <div className="PublicRepos">
-            <p><b>More of my work</b></p>
+            <p><b>Around the Web</b></p>
             <p><a target="_blank" href="http://github.com/russjwells" style={linkStyle} hoverStyle={hoverStyle}>Github</a></p>
             <p><a target="_blank" href="http://dribbble.com/russjwells" style={linkStyle} hoverStyle={hoverStyle}>Dribbble</a></p>
             <p><a target="_blank" href="http://behance.net/russjwells" style={linkStyle} hoverStyle={hoverStyle}>Behance</a></p>
