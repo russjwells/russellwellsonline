@@ -31,7 +31,6 @@ class App extends Component {
         <Route path="/" component={Site}>
           <IndexRoute component={About}></IndexRoute>
           <Route path="portfolio" component={Portfolio}></Route>
-          <Route path="more" component={More}></Route>
           <Route path="resume" component={Resume}></Route>
         </Route>
       </Router>

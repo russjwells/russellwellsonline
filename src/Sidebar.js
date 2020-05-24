@@ -20,14 +20,14 @@ class Sidebar extends Component {
     return (
       <div className="Sidebar">
         <div className="Headshot" style={divStyle}></div>
-        {/*
-          <img src={headshot} alt="headshot" width="394" height="526"/>
-          */}
+        {
+          <img src={headshot} alt="headshot" width="100%" height="20%"/>
+          }
         <div className="Sidebardata">
-          <div className="Oneliner">Software Engineer &<br /> Product Designer</div>
+          <div className="Oneliner">Software Engineer, <br /> Product Designer, <br /> Artist</div>
           <div className="PublicRepos">
-            <p><b>Around the Web</b></p>
-            <p><a target="_blank" href="http://github.com/russjwells" style={linkStyle} hoverStyle={hoverStyle}>Github</a></p>
+            <p><b>Web Links</b></p>
+            
             <p><a target="_blank" href="http://dribbble.com/russjwells" style={linkStyle} hoverStyle={hoverStyle}>Dribbble</a></p>
             <p><a target="_blank" href="http://behance.net/russjwells" style={linkStyle} hoverStyle={hoverStyle}>Behance</a></p>
             <p><a target="_blank" href="http://vimeo.com/russjwells" style={linkStyle} hoverStyle={hoverStyle}>Vimeo</a></p>
@@ -35,11 +35,12 @@ class Sidebar extends Component {
             {/*<p><a target="_blank" href="https://500px.com/russjwells" style={linkStyle} hoverStyle={hoverStyle}>500px</a></p>*/}
             <p><a target="_blank" href="https://soundcloud.com/lightofnature" style={linkStyle} hoverStyle={hoverStyle}>Soundcloud</a></p>
             {/*<p><a target="_blank" href="https://light0fnature.bandcamp.com" style={linkStyle} hoverStyle={hoverStyle}>Bandcamp</a></p>*/}
+            <p><a target="_blank" href="http://github.com/russjwells" style={linkStyle} hoverStyle={hoverStyle}>Github</a></p>
           </div>
 
           <div className="QuickContacts">
-            <p><b>Points of Contact</b></p>
-            <p>russjwells@gmail.com</p>
+            <p><b>Contact</b></p>
+            <p><a target="_blank" href="mailto:russjwells@gmail.com" style={linkStyle}>russjwells@gmail.com</a></p>
             <p><a target="_blank" href="https://t.me/russellwells" style={linkStyle}>Telegram</a></p>
             <p><a target="_blank" href="https://www.linkedin.com/in/russjwells/" style={linkStyle}>LinkedIn</a></p>
           </div>

@@ -9,7 +9,6 @@ class Header extends Component {
         <div className="Menu">
           <IndexLink to='/' style={{ textDecoration: 'none' }} activeClassName='ActiveMenuItem' className='MenuItem'>About</IndexLink>
           <Link to='/portfolio' style={{ textDecoration: 'none' }} activeClassName='ActiveMenuItem' className='MenuItem'>Portfolio</Link>
-          <Link to='/more' style={{ textDecoration: 'none' }} activeClassName='ActiveMenuItem' className='MenuItem'>More</Link>
           <Link to='/resume' style={{ textDecoration: 'none' }} activeClassName='ActiveMenuItem' className='MenuItem'>Resume</Link>
         </div>
       </div>
