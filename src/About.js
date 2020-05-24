@@ -8,15 +8,15 @@ class About extends Component {
           <div className="AboutSpacer">
             <h1>Hello, welcome to my internet home. <br /><br />I create amazing, immersive, exceptional experiences with design, media and technology.</h1>
             {/*<h2>Currently seeking remote opportunities</h2>*/}
-              <p>I am passionate about creating beautiful, useful, and elegant things. <br /><br />I have worked on women's e-mags, transportation tech startups, television animations, event graphics, and more. <br /><br />I am a software engineer (17 years) and product designer (6 years) working in full stack JavaScript, UX, UI, motion graphics, graphic design, video editing and audio production. I like to create digital products, apps and games. All of these digital arts are converging in our increasingly VR/AR ready world. Ready player one?</p>
+              <p>I am passionate about creating beautiful, useful, and elegant things. <br /><br />I have worked on women's e-mags, transportation tech startups, television animations, event graphics, and more. <br /><br />I am a software engineer (17 years) and product designer (6 years) working in full stack JavaScript, UX, UI, motion graphics, graphic design, video editing and audio production. I like to create digital products, apps and games. All of these digital arts are converging in our increasingly VR/AR ready world...</p>
               <p>&nbsp;</p>
-              <p>I consult and freelance in UX, UI, graphic design, motion graphics, branding and software development. I'm availble to assist in designing the best way to solve for your needs, and I'm very creative.
+              <p>I consult and freelance in UX, UI, graphic design, motion graphics, branding and software development. I'm availble to assist in designing the best way to create elegant solutions to your challenges.
               </p>
               <p>&nbsp;</p>
 
               <p>
                 <div className="currentLinks">
-                I also enjoy doing graphics and video for musicians and branding independent businesses. I am available for photoshoots. I am currently based out of Portland but SD/LA is never too far away.
+                I also enjoy doing graphics and video for musicians and branding independent businesses. I am available for personal photoshoots. I am currently based out of Portland but SD/LA is never too far away.
                 </div>
               </p>
               <p>&nbsp;</p>
