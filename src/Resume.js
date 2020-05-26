@@ -5,8 +5,11 @@ class Resume extends Component {
     return(
       <div className="Resume">
         <div className="resumeSpacer">
-          <h2>Fall 2019</h2>
-          <p><a href="https://www.dropbox.com/s/seq6fgi7efqub63/russellwells_cv_2019f.pdf?dl=1">download the .pdf</a></p>
+          <h2>Summer 2020</h2>
+          <p>
+            <a href="https://www.dropbox.com/s/s6nlaracm7e3k4e/russellwells_cv_2020s_software.pdf?dl=0">Software Engineering .pdf</a><br />
+            <a href="https://www.dropbox.com/s/hicortgpucw3xoj/russellwells_cv_2020s_design.pdf?dl=0">Product Design .pdf</a><br />
+          </p>
           <p><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /></p>
           {/*<h2>Product Design & UX</h2>
           <p><a href="https://www.dropbox.com/s/lq0f5tsrdrfsn8i/rw_cv_2019s_ux.pdf?dl=1">download the .pdf</a></p>
