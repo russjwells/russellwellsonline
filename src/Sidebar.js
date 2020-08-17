@@ -24,7 +24,7 @@ class Sidebar extends Component {
           <img src={headshot} alt="headshot" width="100%" height="20%"/>
           }
         <div className="Sidebardata">
-          <div className="Oneliner">Software Engineer, <br /> Product Designer, <br /> Artist</div>
+          <div className="Oneliner">Software Engineer, <br /> Product Designer, <br /> New Media Artist</div>
           <div className="PublicRepos">
             <p><b>Web Links</b></p>
             
@@ -43,6 +43,7 @@ class Sidebar extends Component {
             <p><a target="_blank" href="mailto:russjwells@gmail.com" style={linkStyle}>russjwells@gmail.com</a></p>
             <p><a target="_blank" href="https://t.me/russellwells" style={linkStyle}>Telegram</a></p>
             <p><a target="_blank" href="https://www.linkedin.com/in/russjwells/" style={linkStyle}>LinkedIn</a></p>
+            <p><a target="_blank" href="https://ko-fi.com/russellwells" style={linkStyle}>Tip Me</a></p>
           </div>
         </div>
       </div>
