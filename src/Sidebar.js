@@ -33,7 +33,7 @@ class Sidebar extends Component {
             <p><a target="_blank" href="http://vimeo.com/russjwells" style={linkStyle} hoverStyle={hoverStyle}>Vimeo</a></p>
             <p><a target="_blank" href="https://www.flickr.com/photos/29084693@N03/" style={linkStyle} hoverStyle={hoverStyle}>Flickr</a></p>
             {/*<p><a target="_blank" href="https://500px.com/russjwells" style={linkStyle} hoverStyle={hoverStyle}>500px</a></p>*/}
-            <p><a target="_blank" href="https://soundcloud.com/lightofnature" style={linkStyle} hoverStyle={hoverStyle}>Soundcloud</a></p>
+            <p><a target="_blank" href="https://soundcloud.com/psylid" style={linkStyle} hoverStyle={hoverStyle}>Soundcloud</a></p>
             {/*<p><a target="_blank" href="https://light0fnature.bandcamp.com" style={linkStyle} hoverStyle={hoverStyle}>Bandcamp</a></p>*/}
             <p><a target="_blank" href="http://github.com/russjwells" style={linkStyle} hoverStyle={hoverStyle}>Github</a></p>
           </div>
@@ -43,6 +43,7 @@ class Sidebar extends Component {
             <p><a target="_blank" href="mailto:russjwells@gmail.com" style={linkStyle}>russjwells@gmail.com</a></p>
             <p><a target="_blank" href="https://t.me/russellwells" style={linkStyle}>Telegram</a></p>
             <p><a target="_blank" href="https://www.linkedin.com/in/russjwells/" style={linkStyle}>LinkedIn</a></p>
+            <p><a target="_blank" href="https://twitter.com/russellwells" style={linkStyle}>Twitter</a></p>
             <p><a target="_blank" href="https://ko-fi.com/russellwells" style={linkStyle}>Tip Me</a></p>
           </div>
         </div>
