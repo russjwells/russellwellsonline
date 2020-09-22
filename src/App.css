@@ -246,18 +246,19 @@ img {
 }
 .ProjectList{
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   width: 100%;
   overflow: scroll;
   background-color: white;
-  padding-top: 20px;
   padding-left: 40px;
+  
 }
 .ProjectListItem{
   display: flex;
-  flex-direction: column;;
+  flex: 1;
+  flex-direction: column;
   width: 100%;
-  margin-top: 20px;
+  margin-top: 160px;
   margin-bottom: 20px;
 }
 .ProjectListItem a:link{
