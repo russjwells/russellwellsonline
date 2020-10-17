@@ -88,6 +88,9 @@ hr{
 .Site{
   display: flex;
   flex-direction: column;
+  height: 100%;
+  width: 100%;
+  margin: 0;
 }
 .Header {
   display: flex;
@@ -190,8 +193,7 @@ img {
   background-position: center top;
   background-size: cover;
   background-repeat: no-repeat;
-  flex-grow: 3;
-  flex: 30;
+  flex: 3;
 }
 .Rightside {
   background-color: #FEFFF8;

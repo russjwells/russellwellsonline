@@ -21,7 +21,7 @@ class Sidebar extends Component {
       <div className="Sidebar">
         <div className="Headshot" style={divStyle}></div>
         {
-          <img src={headshot} alt="headshot" width="100%" height="20%"/>
+          //<img src={headshot} alt="headshot" width="100%" height="20%"/>
           }
         <div className="Sidebardata">
           <div className="Oneliner">Software Engineer, <br /> Product Designer, <br /> New Media Artist</div>
