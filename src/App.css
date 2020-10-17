@@ -260,6 +260,7 @@ img {
   flex: 1;
   flex-direction: column;
   width: 100%;
+  min-width: 480px;
   margin-top: 160px;
   margin-bottom: 20px;
 }
