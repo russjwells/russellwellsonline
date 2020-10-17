@@ -296,7 +296,7 @@ img {
   min-height: 100%;
   width: 100%;
   line-height: 2em;
-  overflow: scroll;
+  overflow: 'overflow-y';
   display: flex;
 }
 .AboutSpacer{
