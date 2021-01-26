@@ -7,7 +7,7 @@ class Resume extends Component {
         <div className="resumeSpacer">
           <h2>Autumn 2020</h2>
           <p>
-            <a href="https://www.dropbox.com/s/oqzsz37q3yskmhu/russellwells_cv_2020a2_software.pdf?dl=0">Software Engineering .pdf</a><br />
+            <a href="https://www.dropbox.com/s/bukst63t4d0wkyt/russellwells_cv_2021a_software.pdf?dl=0">Software Engineering .pdf</a><br />
           </p>
           
           {/*<h2>Product Design & UX</h2>
