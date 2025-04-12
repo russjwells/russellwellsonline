@@ -40,7 +40,7 @@ class Sidebar extends Component {
 
           <div className="QuickContacts">
             <p><b>Contact</b></p>
-            <p><a target="_blank" href="mailto:russjwells@gmail.com" style={linkStyle}>russjwells@gmail.com</a></p>
+            <p><a target="_blank" href="mailto:russ_wells@outlook.com" style={linkStyle}>russ_wells@outlook.com</a></p>
             <p><a target="_blank" href="https://t.me/russellwells" style={linkStyle}>Telegram</a></p>
             <p><a target="_blank" href="https://www.linkedin.com/in/russjwells/" style={linkStyle}>LinkedIn</a></p>
             <p><a target="_blank" href="https://twitter.com/russellwells" style={linkStyle}>Twitter</a></p>
