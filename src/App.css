@@ -290,8 +290,8 @@ img {
   margin: auto;
 }
 .ProjectInfo{
-  max-width: 600px;
-  min-width: 400px;
+  max-width: 330px;
+  min-width: 100px;
 }
 .About{
   background-color: white;

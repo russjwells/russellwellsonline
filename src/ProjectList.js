@@ -31,13 +31,13 @@ class ProjectList extends Component{
         </div>
         <div className="ProjectListItem">
           <div className="ProjectPhoto">
-            <a target="_blank" href="https://www.damnjoan.com">
+            <a target="_blank" href="https://web.archive.org/web/20250815200042/https://damnjoan.com/">
               <img src={damnjoan} alt="missing image" width="300px" height="300px"/>
             </a>
             </div>
           <div className="ProjectInfo">
             <h2>Damn Joan</h2>
-            <p><a target="_blank" href="https://www.damnjoan.com">www.damnjoan.com</a></p>
+            <p><a target="_blank" href="https://web.archive.org/web/20250815200042/https://damnjoan.com/">www.damnjoan.com</a></p>
             <p>Alt web mag out of Manhattan.</p>
             <p><i>product design, sketch, zepplin, abstract</i></p>
             <p>See all five editions.</p>
