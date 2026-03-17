@@ -45,13 +45,13 @@ class ProjectList extends Component{
         </div>
         <div className="ProjectListItem">
           <div className="ProjectPhoto">
-              <a target="_blank" href="https://www.sitting.app">
+              <a target="_blank" href="https://fabulous-nasturtium-6c72f3.netlify.app/">
               <img src={sitting} alt="missing image" width="300px" height="300px"/>
               </a>
             </div>
           <div className="ProjectInfo">
             <h2>Sitting</h2>
-            <p><a target="_blank" href="https://www.sitting.app">www.sitting.app</a></p>
+            <p><a target="_blank" href="https://fabulous-nasturtium-6c72f3.netlify.app/">www.sitting.app</a></p>
             <p>Meditation for the Masses.</p>
             <p><i>react, react native, node, express</i></p>
             <p><a target="_blank" href="https://sitting.app">Web App</a> | <a target="_blank" href="https://github.com/russjwells/sittingweb">Repository</a></p>
